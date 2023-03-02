@@ -1,0 +1,17 @@
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\bin\Debug\Hesaplama Uygulaması.exe.config
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\bin\Debug\Hesaplama Uygulaması.exe
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\bin\Debug\Hesaplama Uygulaması.pdb
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama Uygulaması.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama_Uygulaması.Form1.resources
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama_Uygulaması.Properties.Resources.resources
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama Uygulaması.csproj.GenerateResource.cache
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama Uygulaması.exe
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama Uygulaması.pdb
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama_Uygulaması.Form2.resources
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama_Uygulaması.Form3.resources
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama_Uygulaması.Form4.resources
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama_Uygulaması.Form5.resources
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama_Uygulaması.Form6.resources
+C:\Users\90539\Desktop\hsp uyg\Hesaplama Uygulaması\Hesaplama Uygulaması\obj\Debug\Hesaplama_Uygulaması.Form7.resources
